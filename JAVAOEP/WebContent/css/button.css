@@ -1,0 +1,133 @@
+@charset "ISO-8859-1";
+
+.button{
+  background-color: white; 
+  color: #f21d1d;
+  padding: 5px 5px;
+  height: 80px;
+  width: 160px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 5px;
+  border: 2px solid #f21d1d;
+}
+
+.button:hover {
+  background-color: #f21d1d;
+  color: white;
+}
+
+.button2{
+  background-color: white; 
+  color: #08a80e;
+  padding: 5px 5px;
+  height: 80px;
+  width: 160px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 5px;
+  border: 2px solid #08a80e;
+}
+
+.button2:hover {
+  background-color: #08a80e;
+  color: white;
+}
+
+.button3{
+  background-color: white; 
+  color: #f78b1e;
+  padding: 5px 5px;
+  height: 80px;
+  width: 160px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 5px;
+  border: 2px solid #f78b1e;
+}
+
+.button3:hover {
+  background-color: #f78b1e;
+  color: white;
+}
+
+.button4{
+  background-color: white; 
+  color: #db1689;
+  padding: 5px 5px;
+  height: 80px;
+  width: 160px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 5px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+  border-radius: 5px;
+  border: 2px solid #db1689;
+}
+
+.button4:hover {
+  background-color: #db1689;
+  color: white;
+}
+
+.custom{
+font-size: 20px;
+width:40%;
+}
+
+h5{
+	display: inline;
+}
+.form1{
+	border-radius: 5px;
+	border: 2px solid #f21d1d;
+ 	color:white;
+ 	font-weight:bolder;
+ 	background-color:#f21d1d;
+}
+.form2{
+	border-radius: 5px;
+	border: 2px solid #08a80e;
+ 	color:white;
+ 	font-weight:bolder;
+ 	background-color:#08a80e;
+}
+.form3{
+	border-radius: 5px;
+	border: 2px solid #f78b1e;
+ 	color:white;
+ 	font-weight:bolder;
+ 	background-color:#f78b1e;
+}
+.form4{
+	border-radius: 5px;
+	border: 2px solid #db1689;
+ 	color:white;
+ 	font-weight:bolder;
+ 	background-color:#db1689;
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+  align:center;
+}
+
+th, td {
+  padding: 8px;
+  text-align: center;
+  border-bottom: 1px solid white;
+}
